@@ -1,1 +1,1 @@
-# Forecasting-University-s-Funding-
+# Forecasting University's Funding Capacity
